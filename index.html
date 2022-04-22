@@ -1,0 +1,22 @@
+---
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset='utf-8' />
+    <title>{{ site.title }}</title>
+</head>
+<body>
+    <ul class="toc" id="{{ include.id }}">
+        {% for person_id in site.data.people %}
+          {% assign path = '/people/' | append: person_id %}
+          {% assign person = site.people | where:'id', path | first %}
+        <li>
+          <a href="#{{ person_id }}">{{ person }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+
+</body>
+</html>
