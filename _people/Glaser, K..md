@@ -9,7 +9,11 @@ gedenkplaat: yes
 holocaust_monument: yes
 joods_monument: https://www.joodsmonument.nl/nl/page/147833/karel-glaser
 oranjehotel:
-gedenkboek_page: 82
+gedenkboek:
+  page: 82
+  page_img: 
+  uuid: 
+  profile_photo: 
 sinke_page:
 ---
 

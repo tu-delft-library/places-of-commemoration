@@ -9,7 +9,11 @@ gedenkplaat: yes
 holocaust_monument: yes
 joods_monument: https://www.joodsmonument.nl/nl/page/64367/eduard-konijn
 oranjehotel:
-gedenkboek_page: 120
+gedenkboek:
+  page: 120
+  page_img: 
+  uuid: 
+  profile_photo: 
 sinke_page:
 ---
 

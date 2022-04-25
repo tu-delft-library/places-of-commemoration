@@ -9,7 +9,11 @@ gedenkplaat: yes
 holocaust_monument: yes
 joods_monument: https://www.joodsmonument.nl/nl/page/140934/willem-david-cohen
 oranjehotel:
-gedenkboek_page: 36
+gedenkboek:
+  page: 36
+  page_img: 
+  uuid: 
+  profile_photo: 
 sinke_page:
 ---
 

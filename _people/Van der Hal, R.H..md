@@ -9,7 +9,11 @@ gedenkplaat: yes
 holocaust_monument: yes
 joods_monument: https://www.joodsmonument.nl/nl/page/124562/richard-henry-van-der-hal
 oranjehotel:
-gedenkboek_page: 88
+gedenkboek:
+  page: 88
+  page_img: 
+  uuid: 
+  profile_photo: 
 sinke_page:
 ---
 

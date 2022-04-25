@@ -9,7 +9,11 @@ gedenkplaat: yes
 holocaust_monument: yes
 joods_monument: https://www.joodsmonument.nl/nl/page/149812/leon-de-raay
 oranjehotel:
-gedenkboek_page: 159
+gedenkboek:
+  page: 159
+  page_img: 
+  uuid: 
+  profile_photo: 
 sinke_page:
 ---
 

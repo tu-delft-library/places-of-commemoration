@@ -9,7 +9,11 @@ gedenkplaat: yes
 holocaust_monument: yes
 joods_monument: https://www.joodsmonument.nl/nl/page/149865/salomon-ricardo
 oranjehotel:
-gedenkboek_page: 163
+gedenkboek:
+  page: 163
+  page_img: 
+  uuid: 
+  profile_photo: 
 sinke_page:
 ---
 

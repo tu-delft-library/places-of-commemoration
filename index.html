@@ -8,12 +8,12 @@
     <title>{{ site.title }}</title>
 </head>
 <body>
-    <ul class="toc" id="{{ include.id }}">
+    <ul class="toc" id="Bettink-J">
         {% for person_id in site.data.people %}
-          {% assign path = '/people/' | append: person_id %}
+          {% assign path = '/_people/' | append: person_id %}
           {% assign person = site.people | where:'id', path | first %}
         <li>
-          <a href="#{{ person_id }}">{{ person }}</a>
+          <a href="#{{ person_id }}">{{ site.people.id }}</a>
         </li>
         {% endfor %}
     </ul>

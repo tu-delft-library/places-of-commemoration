@@ -9,7 +9,11 @@ gedenkplaat: yes
 holocaust_monument: yes
 joods_monument: https://www.joodsmonument.nl/nl/page/147834/ernst-glaser
 oranjehotel:
-gedenkboek_page: 81
+gedenkboek:
+  page: 81
+  page_img: 
+  uuid: 
+  profile_photo: 
 sinke_page:
 ---
 # Ernst Glaser

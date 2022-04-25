@@ -9,7 +9,11 @@ gedenkplaat: yes
 holocaust_monument: yes
 joods_monument: https://www.joodsmonument.nl/nl/page/149816/simon-isidoor-van-kreveld
 oranjehotel:
-gedenkboek_page: 123
+gedenkboek:
+  page: 123
+  page_img: 
+  uuid: 
+  profile_photo: 
 sinke_page:
 ---
 

@@ -9,7 +9,11 @@ gedenkplaat: yes
 holocaust_monument:
 joods_monument:
 oranjehotel:
-gedenkboek_page: 92
+gedenkboek:
+  page: 92
+  page_img: 
+  uuid: 
+  profile_photo: 
 sinke_page:
 ---
 

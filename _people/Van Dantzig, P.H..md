@@ -9,7 +9,11 @@ gedenkplaat: yes
 holocaust_monument: yes
 joods_monument: https://www.joodsmonument.nl/nl/page/208238/paul-herman-van-dantzig
 oranjehotel:
-gedenkboek_page: 70
+gedenkboek:
+  page: 70
+  page_img: 
+  uuid: 
+  profile_photo: 
 sinke_page:
 ---
 

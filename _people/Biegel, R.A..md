@@ -9,7 +9,11 @@ gedenkplaat: yes
 holocaust_monument: yes
 joods_monument: https://www.joodsmonument.nl/nl/page/127318/rebekka-aleida-biegel
 oranjehotel:
-gedenkboek_page: 35
+gedenkboek:
+  page: 35
+  page_img: 
+  uuid: 
+  profile_photo: 
 sinke_page:
 ---
 

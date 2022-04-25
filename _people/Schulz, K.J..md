@@ -9,7 +9,11 @@ gedenkplaat: yes
 holocaust_monument: yes
 joods_monument: https://www.joodsmonument.nl/nl/page/226882/kurt-johann-schulz
 oranjehotel:
-gedenkboek_page: 38
+gedenkboek: 
+  page: 38
+  page_img: 
+  uuid: 
+  profile_photo: 
 sinke_page:
 ---
 
