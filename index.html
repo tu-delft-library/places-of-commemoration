@@ -8,12 +8,12 @@
     <title>{{ site.title }}</title>
 </head>
 <body>
-    <ul class="toc" id="{{ people.id }}">
-        {% for person_id in site.data.people %}
-          {% assign path = '/people/' | append: person_id %}
-          {% assign person = site.people | where:'id', path | first %}
+    <ul class="toc">
+        {% for person in site.people %}
+          <!-- {% assign path = '/people/' | append: person_id %}
+          {% assign person = site.people | where:'id', path | first %} -->
         <li>
-          <a href="#{{ person_id }}">{{ site.people.person_id.fullname }}</a>
+          <a href="#{{ person }}">{{ person.fullname }}</a>
         </li>
         {% endfor %}
     </ul>

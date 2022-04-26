@@ -36,6 +36,9 @@ plugins:
 # IIIF Server settings
 image_base_url: https://dlc.services/iiif-img/7/
 
+collections:
+  people:
+    output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
