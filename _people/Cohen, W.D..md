@@ -11,8 +11,8 @@ joods_monument: https://www.joodsmonument.nl/nl/page/140934/willem-david-cohen
 oranjehotel:
 gedenkboek:
   page: 36
-  page_img: 
-  uuid: 
+  page_img: 39
+  uuid: 6/73d00a26-7202-431a-997a-8029cc08a785
   profile_photo: 
 sinke_page:
 ---

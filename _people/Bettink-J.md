@@ -1,6 +1,6 @@
 ---
 aliases: []
-tags: 👤, 
+tags: 👤
 fullname: "Jan Bettink"
 death_year: 1940
 death_date: 1940-05-10

@@ -11,8 +11,8 @@ joods_monument:
 oranjehotel:
 gedenkboek:
   page: 136
-  page_img: 
-  uuid: 
+  page_img: 139
+  uuid: 6/8f406420-4937-4ce1-9445-db515c3b6fc6
   profile_photo: 
 sinke_page:
 ---

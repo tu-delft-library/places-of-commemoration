@@ -11,8 +11,8 @@ joods_monument: https://www.joodsmonument.nl/nl/page/149787/ernst-henri-birnbaum
 oranjehotel:
 gedenkboek:
   page: 54
-  page_img: 
-  uuid: 
+  page_img: 57
+  uuid: 6/3f0b4a79-f041-4ea7-87b2-6eaaafca4d8c
   profile_photo: 
 sinke_page:
 ---

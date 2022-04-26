@@ -11,8 +11,8 @@ joods_monument: https://www.joodsmonument.nl/nl/page/124562/richard-henry-van-de
 oranjehotel:
 gedenkboek:
   page: 88
-  page_img: 
-  uuid: 
+  page_img: 91
+  uuid: 6/01489ef7-c3a9-4768-89db-b63773c3c77d
   profile_photo: 
 sinke_page:
 ---

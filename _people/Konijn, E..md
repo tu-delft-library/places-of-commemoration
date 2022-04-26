@@ -11,8 +11,8 @@ joods_monument: https://www.joodsmonument.nl/nl/page/64367/eduard-konijn
 oranjehotel:
 gedenkboek:
   page: 120
-  page_img: 
-  uuid: 
+  page_img: 123
+  uuid: 6/af0340b3-5eb8-40d0-89a3-0b6b09c20342
   profile_photo: 
 sinke_page:
 ---

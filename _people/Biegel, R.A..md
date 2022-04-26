@@ -11,8 +11,8 @@ joods_monument: https://www.joodsmonument.nl/nl/page/127318/rebekka-aleida-biege
 oranjehotel:
 gedenkboek:
   page: 35
-  page_img: 
-  uuid: 
+  page_img: 38
+  uuid: 6/ec43e286-7a93-4594-a76d-8e4b103c0463
   profile_photo: 
 sinke_page:
 ---

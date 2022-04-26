@@ -11,8 +11,8 @@ joods_monument: https://www.joodsmonument.nl/nl/page/226882/kurt-johann-schulz
 oranjehotel:
 gedenkboek: 
   page: 38
-  page_img: 
-  uuid: 
+  page_img: 41
+  uuid: 6/b8584294-2f78-485e-9d6d-25a621d46c8f
   profile_photo: 
 sinke_page:
 ---
