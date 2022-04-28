@@ -1,0 +1,11 @@
+<div class="figure">
+  <a target="_blank" href="{{ site.viewer_base_url }}{% if include.idno %}{{ site.manifest_base_url }}{{ include.idno }}#?c=0&m=0&s=0&cv={{ include.canvas | minus: 1 }}{% else %}{{ include.manifest }}{% endif %}">
+    <figure>
+      <img src="{% if include.uuid %}{{ site.image_base_url }}{{ include.uuid }}{% else %}{{ include.uri }}{% endif %}/{{ include.region }}/300,/0/default.jpg"
+        alt="{{ include.caption }}" />
+      <figcaption>
+        <i>{{ include.caption }}</i>
+      </figcaption>
+    </figure>
+  </a>
+</div>

@@ -12,7 +12,7 @@ oranjehotel:
 gedenkboek:
   page: 51
   page_img: 54
-  uuid: 6/851507d1-d114-4636-908f-af9c5b93a7ef
-  profile_photo: 
+  uuid: 6/91a422bf-941b-4cd6-a4a5-a8f5a48e0719
+  profile_photo: pct:30,8,40,30
 sinke_page:
 ---

@@ -13,7 +13,7 @@ gedenkboek:
   page: 177
   page_img: 180
   uuid: 6/7c5356f1-81d0-48bc-aa76-827eb17a1b98
-  profile_photo: 
+  profile_photo: pct:30,8,40,30
 sinke_page:
 ---
 

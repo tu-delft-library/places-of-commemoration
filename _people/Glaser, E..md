@@ -13,7 +13,7 @@ gedenkboek:
   page: 81
   page_img: 84
   uuid: 6/4f7f9d04-7e39-4173-af9d-8fe98dfa2e9f
-  profile_photo: 
+  profile_photo: pct:30,8,40,30
 sinke_page:
 ---
 # Ernst Glaser
