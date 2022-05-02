@@ -4,7 +4,7 @@ tags: 👤,
 fullname: "Johannes A.A. Mekel"
 death_year: 1942
 death_date: 1942-05-03
-wikipedia:
+wikipedia: https://nl.wikipedia.org/wiki/Jan_Mekel
 gedenkplaat: yes
 holocaust_monument:
 joods_monument:
