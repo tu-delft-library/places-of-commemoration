@@ -22,7 +22,10 @@ layout: default
     <section class="body">
       {% include iiif-image.html idno="TR-3021410" uuid=person.gedenkboek.uuid canvas=person.gedenkboek.page_img caption=person.fullname  region=person.gedenkboek.profile_photo %} 
 
-      {{ person.death_date}} 
+      {{ person.death_date}} <br />
+      {% if person.wikipedia != null %}
+      <a href="{{ person.wikipedia }}">Wikilink</a>
+      {% endif %}
     </section>
   </article>
   </li>
