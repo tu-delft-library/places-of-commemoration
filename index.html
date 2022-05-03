@@ -2,10 +2,22 @@
 layout: default
 ---
 
+<section id="title">
+  {{ site.title}}
+</section>
+
+<section id="intro">
+  {{ site.description }} <br />
+  <a href="{{ site.plaaturl }}">{{ site.subdescription }}</a>
+
+</section>
+
 
 
 <section id="content">
+
 <div id="people-list"></div>
+
 <input class="search" placeholder="Search" />
 <button class="sort" data-sort="name">
   Search
@@ -16,7 +28,7 @@ layout: default
 {% for person in site.people %}
   <li>
   <article class="{{ person.id }}">
-    <a name="{{ person.fullname }}" href="#{{ person.id }}">
+    <a name="{{ person.fullname }}">
       <h2 class="name">{{ person.fullname }}</h2> 
       <p class="year">{{ person.death_year }}</p>        
     </a>

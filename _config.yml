@@ -1,7 +1,10 @@
-title: Dodenherdenking TU Delft
+title: "TU Delft: Places of Commemoration"
 email: ksiemonsma@tudelft.nl
 description: >- # this means to ignore newlines until "baseurl:"
-  This website is dedicated to the people who have given their live in the name of freedom during the Second World War.
+  In het Gedenkboek van het verzet der Delftsche studenten en docenten gedurende de jaren 1940-1945, uitgegeven in 1947 door de Delftsche Studenten Raad, is van de tijdens de Tweede Wereldoorlog omgekomen studenten en docenten van de Technische Hogeschool een portretfoto opgenomen. Ook staan er korte beschrijvingen van hun lotgevallen tijdens de oorlog in.
+  Op deze pagina kunt u de namen raadplegen en de betreffende pagina’s in het gedenkboek bezoeken.
+subdescription: "[De namen zijn opgenomen op de herdenkingsplaquette die in de aula van de Technische Universiteit Delft is te vinden.]"
+plaaturl: https://heritage.tudelft.nl/en/objects/52d84cce-1656-4bb9-896a-f1ec1010d1a0
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
