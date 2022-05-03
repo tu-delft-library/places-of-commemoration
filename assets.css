@@ -768,4 +768,6 @@ input:focus {
   background-color: #28a8e0;
   height:30px;
   width: 150px;
+  position: absolute;
+  right: 2px;
 }
