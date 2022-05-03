@@ -1,18 +1,18 @@
 ---
 aliases: []
 tags: 👤, 
-fullname: "Henry Anton Engelbert Burgers"
-death_year: 1945
-death_date: 1945-02-03
+fullname: "Emile de Ceuninck van Capelle"
+death_year: Onbekend
+death_date: Onbekend
 wikipedia: 
 gedenkplaat: yes
 holocaust_monument:
 joods_monument:
 oranjehotel:
 gedenkboek:
-  page: 66
-  page_img: 69
-  uuid: 6/b06ce8b8-52f4-4679-9da5-f1ff1586fdb9
+  page: 67
+  page_img: 70
+  uuid: 6/082e79dd-0274-436c-85a9-272cf686596a
   profile_photo: pct:30,8,40,30
 sinke_page:
 ---

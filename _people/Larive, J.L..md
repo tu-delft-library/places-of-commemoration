@@ -1,18 +1,18 @@
 ---
 aliases: []
 tags: 👤, 
-fullname: "Henry Anton Engelbert Burgers"
-death_year: 1945
-death_date: 1945-02-03
+fullname: "Joan Lodewijk Larive"
+death_year: Onbekend
+death_date: Onbekend
 wikipedia: 
 gedenkplaat: yes
 holocaust_monument:
 joods_monument:
 oranjehotel:
 gedenkboek:
-  page: 66
-  page_img: 69
-  uuid: 6/b06ce8b8-52f4-4679-9da5-f1ff1586fdb9
+  page: 126
+  page_img: 129
+  uuid: 6/0f687efd-ca7e-42c9-8f2f-58a75fdcf3f9
   profile_photo: pct:30,8,40,30
 sinke_page:
 ---

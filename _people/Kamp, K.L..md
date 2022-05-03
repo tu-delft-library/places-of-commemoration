@@ -1,7 +1,7 @@
 ---
 aliases: []
 tags: 👤, 
-fullname: "ir. Kars Lucas Kamp"
+fullname: "Kars Lucas Kamp"
 death_year: 1943
 death_date: 1943-07-20
 wikipedia:

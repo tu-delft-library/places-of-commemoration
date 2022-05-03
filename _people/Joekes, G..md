@@ -4,7 +4,7 @@ tags: 👤,
 fullname: "Gustaaf Joekes"
 death_year: 1942
 death_date: 1942-02-17
-wikipedia:
+wikipedia: https://nl.wikipedia.org/wiki/Gustaaf_Joekes
 gedenkplaat: yes
 holocaust_monument:
 joods_monument:

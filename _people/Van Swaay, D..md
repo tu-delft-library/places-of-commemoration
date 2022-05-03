@@ -4,7 +4,7 @@ tags: 👤,
 fullname: "Dirk van Swaay"
 death_year: 1941
 death_date: 1941-11
-wikipedia:
+wikipedia: https://nl.wikipedia.org/wiki/Dirk_van_Swaay
 gedenkplaat: yes
 holocaust_monument:
 joods_monument:

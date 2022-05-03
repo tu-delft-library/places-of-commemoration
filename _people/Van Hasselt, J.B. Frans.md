@@ -4,7 +4,7 @@ tags: 👤,
 fullname: "Johan Barthold Frans van Hasselt"
 death_year: 1942
 death_date: 1942-09-10
-wikipedia:
+wikipedia: https://nl.wikipedia.org/wiki/Johan_Barthold_Frans_van_Hasselt
 gedenkplaat: yes
 holocaust_monument:
 joods_monument:

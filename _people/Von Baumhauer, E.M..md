@@ -3,8 +3,8 @@ aliases: []
 tags: 👤, 
 fullname: "Eduard Mari von Baumhauer"
 death_year: 1941
-death_date: 1941-02
-wikipedia:
+death_date: 1941-02-27
+wikipedia: https://nl.wikipedia.org/wiki/Eduard_von_Baumhauer
 gedenkplaat: yes
 holocaust_monument:
 joods_monument:

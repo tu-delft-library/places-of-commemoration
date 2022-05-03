@@ -4,7 +4,7 @@ tags: 👤,
 fullname: "Charles James Courtney Hugenholtz"
 death_year: 1942
 death_date: 1942-07
-wikipedia:
+wikipedia: https://nl.wikipedia.org/wiki/Charles_Hugenholtz
 gedenkplaat: yes
 holocaust_monument:
 joods_monument:

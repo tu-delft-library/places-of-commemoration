@@ -4,7 +4,7 @@ tags: 👤,
 fullname: "Armandus G. H. Maassen"
 death_year: 1943
 death_date: 1943-02-10
-wikipedia:
+wikipedia: https://nl.wikipedia.org/wiki/Armand_Maassen
 gedenkplaat: yes
 holocaust_monument:
 joods_monument:

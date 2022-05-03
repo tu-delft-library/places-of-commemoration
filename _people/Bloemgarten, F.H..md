@@ -7,7 +7,7 @@ death_date: 1944-07-26
 wikipedia: https://nl.wikipedia.org/wiki/Felix_Hendrik_Bloemgarten
 gedenkplaat: yes
 holocaust_monument:
-joods_monument:
+joods_monument: https://www.joodsmonument.nl/nl/page/234289/felix-hendrik-bloemgarten
 oranjehotel:
 gedenkboek:
   page: 57
