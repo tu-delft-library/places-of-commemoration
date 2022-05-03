@@ -756,3 +756,16 @@ input:focus {
   right: 20px;
   margin-bottom: 10px;
 } */
+
+#switch-lang {
+  padding:0px 30px;
+  border-radius: 6px;
+  margin: 2px;
+  border:none;
+  display:inline-block;
+  color:#fff;
+  text-decoration: none;
+  background-color: #28a8e0;
+  height:30px;
+  width: 150px;
+}
