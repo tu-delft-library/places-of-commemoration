@@ -17,12 +17,12 @@ layout: default
 <section id="content">
 
 <div id="people-list">
-
-  <input class="search" placeholder="Search" />
+  <div id="search_bar">
+  <input class="search" />
   <button class="sort" data-sort="name">
     Search
   </button>
-
+  </div>
 
   <ul class="list">
   {% for person in site.people %}
