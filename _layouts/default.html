@@ -5,6 +5,7 @@
   <meta name='description' content='Places of Commemoration'/>
   <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'/>
   <link href='assets.css' rel='stylesheet' type='text/css'>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 </head>
 <body>  
     
@@ -27,6 +28,13 @@
 
     var peopleList = new List("people-list", options);
     // console.log(options);
+
+    $('[lang="en"]').hide();
+
+    $('#switch-lang').click(function() {
+      $('[lang="nl"]').toggle();
+      $('[lang="en"]').toggle();
+    });
   </script>
 </body>
 </html>

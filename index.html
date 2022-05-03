@@ -1,17 +1,25 @@
 ---
 layout: default
 ---
+<button id="switch-lang"><section lang="nl">English</section> <section lang="en">Nederlands</section> </button>
 
-<section id="title">
-  {{ site.title}}
+
+<section id="title" lang="nl">
+ {{ site.title_nl}}
+</section>
+<section id="title" lang="en">
+  {{ site.title_en}}
 </section>
 
-<section id="intro">
-  {{ site.description }} <br />
-  <a href="{{ site.plaaturl }}">{{ site.subdescription }}</a>
-
+<section id="intro" lang="nl">
+  {{ site.description_nl }} <br /> <br />
+  <a href="{{ site.plaaturl }}">{{ site.subdescription_nl }}</a>
 </section>
 
+<section id="intro" lang="en">
+  {{ site.description_en }} <br /> <br />
+  <a href="{{ site.plaaturl }}">{{ site.subdescription_en }}</a>
+</section>
 
 
 <section id="content">

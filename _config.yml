@@ -1,9 +1,15 @@
 title: "TU Delft: Places of Commemoration"
+title_nl: "TU Delft: Herdenkingsplaquette"
+title_en: "TU Delft: Places of Commemoration"
 email: ksiemonsma@tudelft.nl
-description: >- # this means to ignore newlines until "baseurl:"
+description_nl: >- # this means to ignore newlines until "baseurl:"
   In het Gedenkboek van het verzet der Delftsche studenten en docenten gedurende de jaren 1940-1945, uitgegeven in 1947 door de Delftsche Studenten Raad, is van de tijdens de Tweede Wereldoorlog omgekomen studenten en docenten van de Technische Hogeschool een portretfoto opgenomen. Ook staan er korte beschrijvingen van hun lotgevallen tijdens de oorlog in.
   Op deze pagina kunt u de namen raadplegen en de betreffende pagina’s in het gedenkboek bezoeken.
-subdescription: "[De namen zijn opgenomen op de herdenkingsplaquette die in de aula van de Technische Universiteit Delft is te vinden.]"
+subdescription_nl: "[De namen zijn opgenomen op de herdenkingsplaquette die in de aula van de Technische Universiteit Delft is te vinden.]"
+description_en: >-
+  The memorial book titled Gedenkboek van het verzet der Delftsche studenten en docenten gedurende de jaren 1940-1945, published in 1947 by the Delft Student Council, shows a portrait photo of the students and teachers of the Technische Hogeschool who died during the Second World War. It also contains short descriptions of their fate during the war years.
+  On this page you can consult the names and visit the relevant pages in the memorial book.
+subdescription_en: "[The names are included on the memorial plaque that can be found in the auditorium of Delft University of Technology.]"
 plaaturl: https://heritage.tudelft.nl/en/objects/52d84cce-1656-4bb9-896a-f1ec1010d1a0
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
